@@ -1,14 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# import requests
-# import chromedriver_binary
-# from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
-# from time import sleep
-# from dotenv import load_dotenv
-# from os import getenv
-# from webdriver_manager.chrome import ChromeDriverManager
 
 from selenium_crawler import SeleniumCrawler
 
